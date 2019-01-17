@@ -14,10 +14,7 @@ function theBeatlesPlay(musiciansArray, instrumentsArray) {
 function johnLennonFacts(factsArray) {
   var newArray = []
   var i = 0
-  console.log(factsArray)
-  console.log(factsArray.length)
   while (i < factsArray.length) {
-    console.log(factsArray)
     newArray[i] = factsArray[i] + "!!!"
     i++
   }
@@ -37,5 +34,5 @@ function iLoveTheBeatles(number) {
 factsArrayTwo = ['mera', 'rayna']
 
 
-johnLennonFacts(factsArrayTwo)
+console.log(johnLennonFacts(factsArrayTwo))
 
