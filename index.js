@@ -37,5 +37,5 @@ function iLoveTheBeatles(number) {
 factsArrayTwo = ['mera', 'rayna']
 
 
-console.log(johnLennonFacts(factsArrayTwo))
+//console.log(johnLennonFacts(factsArrayTwo))
 
