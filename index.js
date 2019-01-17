@@ -13,7 +13,7 @@ function theBeatlesPlay(musiciansArray, instrumentsArray) {
 
 function johnLennonFacts(factsArray) {
   var newArray = []
-  console.log(newArray)
+  console.log(factsArray)
   var i = 0
   while (i < factsArray.lenth) {
     console.log(factsArray)
