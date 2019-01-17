@@ -33,4 +33,4 @@ function iLoveTheBeatles(number) {
   return newArray
 }
 
-iLoveTheBeatles(14)
+iLoveTheBeatles(2)
