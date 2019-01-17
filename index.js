@@ -4,7 +4,7 @@ function theBeatlesPlay(musiciansArray, instrumentsArray) {
   //console.log(musiciansArray)
   var newArray = []
   for (var i = 0; i<musiciansArray.length; i++) {
-    var string = `${musiciansArray[i]} plays ${instrumentsArray[i]}.`
+    var string = `${musiciansArray[i]} plays ${instrumentsArray[i]}`
     newArray[i] = string
   }
   console.log(newArray)
