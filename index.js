@@ -26,9 +26,10 @@ function iLoveTheBeatles(number) {
   var newArray = []
   var i = number
   do {
-    newArray[i] = 'I love the Beatles!'
+    newArray.push('I love the Beatles!')
+    i++
   } while (i < 15)
   return newArray
 }
 
-iLoveTheBeatles(2)
+iLoveTheBeatles(14)
