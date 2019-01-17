@@ -16,7 +16,7 @@ function johnLennonFacts(factsArray) {
   var i = 0
   console.log(factsArray)
   console.log(factsArray.length)
-  while (i < 2) {
+  while (i < factsArray.length) {
     console.log(factsArray)
     newArray[i] = factsArray[i] + "!!!"
     i++
