@@ -31,4 +31,7 @@ function iLoveTheBeatles(number) {
   return newArray
 }
 
-factsArray = ['mera', 'rayna']
+factsArrayTwo = ['mera', 'rayna']
+
+console.log(johnLennonFacts(factsArrayTwo))
+
