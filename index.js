@@ -30,3 +30,5 @@ function iLoveTheBeatles(number) {
   } while (i < 15)
   return newArray
 }
+
+factsArray = ['mera', 'rayna']
