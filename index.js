@@ -33,5 +33,5 @@ function iLoveTheBeatles(number) {
 }
 
 array = ['mera', 'rayna']
-console.log(array[0] +"!!!")
+console.log(array[1] +"!!!")
 
