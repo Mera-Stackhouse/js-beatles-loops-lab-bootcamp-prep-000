@@ -32,4 +32,6 @@ function iLoveTheBeatles(number) {
   return newArray
 }
 
+array = ['mera', 'rayna']
+console.log(array[0] +"!!!")
 
