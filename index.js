@@ -30,9 +30,3 @@ function iLoveTheBeatles(number) {
   } while (i < 15)
   return newArray
 }
-
-arrayTwo = []
-array = ['mera', 'rayna']
-arrayTwo[0] = array[1] +"!!!"
-console.log(arrayTwo)
-
