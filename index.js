@@ -16,7 +16,6 @@ function johnLennonFacts(factsArray) {
   var i = 0
   while (i < factsArray.lenth) {
     newArray[i] = factsArray[i] + "!!!"
-    newArray[i] = string
     i--
   }
   return newArray
@@ -32,7 +31,8 @@ function iLoveTheBeatles(number) {
   return newArray
 }
 
+arrayTwo = []
 array = ['mera', 'rayna']
-array[1] = array[1] +"!!!"
-console.log(array[1])
+arrayTwo[0] = array[1] +"!!!"
+console.log(arrayTwo)
 
